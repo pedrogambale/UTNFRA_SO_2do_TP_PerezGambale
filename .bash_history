@@ -28,7 +28,7 @@ while IFS=',' read -r USER GROUP HOME_DIR; do
 done < "$LISTA"
 EOF
 
-sudo chmod +x /usr/local/bin/PodobaAltaUser-Groups.sh
+sudo chmod +x /usr/local/bin/PerezGambaleAltaUser-Groups.sh
 sudo /usr/local/bin/PerezGambaleAltaUser-Groups.sh vagrant $LISTA_PATH
 tail -n 10 /etc/passwd
 cd ~/UTN-FRA_SO_Examenes/202406/docker/
