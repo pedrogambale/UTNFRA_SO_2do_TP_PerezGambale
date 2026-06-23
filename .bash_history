@@ -36,16 +36,6 @@ vim index.html
 history
 vim index.html
 cd ~/UTN-FRA_SO_Examenes/202406/docker/
-:white_check_mark:
-Haz clic para reaccionar
-:soccer:
-Haz clic para reaccionar
-:orange_heart:
-Haz clic para reaccionar
-Añadir reacción
-Responder
-Reenviar
-Más
 cd ~/UTN-FRA_SO_Examenes/202406/docker/
 vim index.html
 docker build -t pedrogambale/web1-perezgambale:latest .
